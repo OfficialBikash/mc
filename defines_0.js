@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['bblack_0',['BBLACK',['../color_8h.html#ac04a55099d9d2fdf09eeb11b6edda922',1,'color.h']]],
+  ['bblue_1',['BBLUE',['../color_8h.html#a4c97932a8044a468113b4e1dadc5fa08',1,'color.h']]],
+  ['bcyan_2',['BCYAN',['../color_8h.html#aa94753e91817ff9a941a7f0b2544f957',1,'color.h']]],
+  ['bgreen_3',['BGREEN',['../color_8h.html#ae1a8523e23479cb4ea0037864dca5434',1,'color.h']]],
+  ['bhblack_4',['BHBLACK',['../color_8h.html#ab17bc1b1eb23f0b52dfb0d1b3bc5eb46',1,'color.h']]],
+  ['bhblue_5',['BHBLUE',['../color_8h.html#ae2c8a7cb9ffeeebb647844fc4bf2bee8',1,'color.h']]],
+  ['bhcyan_6',['BHCYAN',['../color_8h.html#a1995dfe41bfc318ebed627513246247a',1,'color.h']]],
+  ['bhgreen_7',['BHGREEN',['../color_8h.html#a33800c0bcf0a7c190c8c17ea097304e9',1,'color.h']]],
+  ['bhpurple_8',['BHPURPLE',['../color_8h.html#ab7158b66ec1edbd502e6bf2efae0cbe1',1,'color.h']]],
+  ['bhred_9',['BHRED',['../color_8h.html#ad1ed5807aac72daecdadc097787dcc4c',1,'color.h']]],
+  ['bhwhite_10',['BHWHITE',['../color_8h.html#ae22d4617447a310416d72286dddf3a70',1,'color.h']]],
+  ['bhyellow_11',['BHYELLOW',['../color_8h.html#a71d0725da737f974e503429ae108d5e2',1,'color.h']]],
+  ['black_12',['BLACK',['../color_8h.html#a7b3b25cba33b07c303f3060fe41887f6',1,'color.h']]],
+  ['blackb_13',['BLACKB',['../color_8h.html#a8c6ada6e93215c7d50d8bc0939046a37',1,'color.h']]],
+  ['blackhb_14',['BLACKHB',['../color_8h.html#afcff4e54b8440937072cf5a2aa471466',1,'color.h']]],
+  ['blue_15',['BLUE',['../color_8h.html#a79d10e672abb49ad63eeaa8aaef57c38',1,'color.h']]],
+  ['blueb_16',['BLUEB',['../color_8h.html#ab02ac594d4a35f08bbe36a07c2b4be26',1,'color.h']]],
+  ['bluehb_17',['BLUEHB',['../color_8h.html#a1337bea956c469aac1ed26019b09948a',1,'color.h']]],
+  ['bpurple_18',['BPURPLE',['../color_8h.html#abe12e910228d4463ecec8fa5bfffd588',1,'color.h']]],
+  ['bred_19',['BRED',['../color_8h.html#a2adb4c9e293ac446897ccfac5a52d6c2',1,'color.h']]],
+  ['bwhite_20',['BWHITE',['../color_8h.html#ac9b496a3875fbea1a5254c660ba36c58',1,'color.h']]],
+  ['byellow_21',['BYELLOW',['../color_8h.html#a755f95481f7549a35580011e24323833',1,'color.h']]]
+];
